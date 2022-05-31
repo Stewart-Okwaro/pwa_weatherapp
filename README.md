@@ -1,4 +1,4 @@
-https://stewart-okwaro.github.io/pwa_weatherapp/
+click the link to see the app - https://stewart-okwaro.github.io/pwa_weatherapp/
 
 # Getting Started with Create React App
 
